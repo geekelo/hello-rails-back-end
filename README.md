@@ -36,7 +36,7 @@
 # 📖 Hello Rails Backend <a name="about-project"></a>
 
 
-"**Hello Rails Backend** is an API only Ruby on Rails template to serve solely as a backend app for a [React application]() that serves as the frontend"
+"**Hello Rails Backend** is an API only Ruby on Rails template to serve solely as a backend app for a [React application](https://github.com/geekelo/hello-react-front-end) that serves as the frontend"
 
 <!-- ## Live Demo & Presentation <a name="live-demo">
 [LIVE DEMO](https://cash-in-out-qoka.onrender.com/) -->
